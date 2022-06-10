@@ -3,7 +3,7 @@ Tensorflow 2 image_detection API used to detect sign language words from custom 
 
 ## Requirements
 
-For the Tensorflow 2 API setup, please follow instructions in the docs [here](https://link-url-here.or](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#anaconda-python-3-8-optional).
+For the Tensorflow 2 API setup, please follow instructions in the docs [here](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#anaconda-python-3-8-optional).
 
 Create virtual env or Docker. Run the following inside the repo to install all dependencies:
 
